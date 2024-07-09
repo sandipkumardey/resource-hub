@@ -2,9 +2,6 @@
 
 List of resources for Web3
 
-## Awesome Web3
-
-- [Awesome Web3](#awesome-web3)
   - [Awesome List](#awesome-list)
   - [Reference](#reference)
   - [Software Development](#software-development)
